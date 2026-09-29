@@ -73,7 +73,7 @@ Sales-Analytics-Dashboard/
 
 ## Dashboard Preview
 
-![Sales Analytics Dashboard](./Assets/dashboard.png)
+![Sales Analytics Dashboard](./03_Assets/dashboard.png)
 
 ## Skills Demonstrated
 
